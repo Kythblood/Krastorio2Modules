@@ -34,6 +34,5 @@ However, for those (like me) who still wish for more tiers of modules to extend 
 This mod is an add-on for [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) by [Krastor]( https://mods.factorio.com/user/Krastor) and [Linver]( https://mods.factorio.com/user/Linver). A big thank you to the Krastorio Team for creating this amazing mod. 
 My mod is not an official expansion to Krastorio 2. It requires Krastorio 2 to be installed, but it is not related to the Krastorio Team in any other way.
 The code was created by me and graphics are based on vanilla icons and edited by me.
-Thank you [billbo99](https://mods.factorio.com/user/billbo99) for allowing me to use your script to generate icons for the stacked version of items for [Deadlock's Stacking Beltboxes & Compact Loaders](https://mods.factorio.com/mod/deadlock-beltboxes-loaders) support.
 &nbsp;
 As you might have noticed, English is not my first language, nor is it my second. If you notice any big mistakes, let me know.
