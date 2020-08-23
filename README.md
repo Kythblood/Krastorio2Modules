@@ -2,7 +2,7 @@
 Krastorio 2 expands a lot of vanilla features but leaves the module system unchanged. The Krastorio team stated that this decision was made because of balancing reasons, which I can fully understand.  
 However, for those (like me) who still wish for more tiers of modules to extend the endgame and increase production even further, this is the mod for you.
 # Features
-![alt text](https://i.imgur.com/RM028G5.jpg "Krastorio 2 Modules")
+&nbsp;&nbsp;![alt text](https://i.imgur.com/RM028G5.jpg "Krastorio 2 Modules")
 *  This mod expands the 3 types of base game modules by adding 3 new tiers of modules. 
 *  They are powerful, but also very expensive to craft. 
 *  They are designed as an endgame resource sink that allows you to push your factory even further and save you a few UPS.
@@ -12,7 +12,7 @@ However, for those (like me) who still wish for more tiers of modules to extend 
 &nbsp;
 *  To unlock the new tiers of modules, research the technology “Energy processing circuit”, which unlocks a new type of circuit that is required to craft them, and the technology “Advanced modules”.
 ![alt text](https://i.imgur.com/GvOo56N.jpg "Krastorio 2 Modules Technology Prerequisites")
-*  This will unlock the research for tier 4, 5 and 6 of modules  
+*  This will unlock the research for tier 4, 5 and 6 of modules.    
 **Speed modules:**
 ![alt text](https://i.imgur.com/I2d8YgE.jpg "Krastorio 2 Speed modules 4, 5, 6")
 **Efficiency modules:**
