@@ -2,7 +2,7 @@
 Krastorio 2 expands a lot of vanilla features but leaves the module system unchanged. The Krastorio team stated that this decision was made because of balancing reasons, which I can fully understand.  
 However, for those (like me) who still wish for more tiers of modules to extend the endgame and increase production even further, this is the mod for you.
 # Features
-&nbsp;&nbsp;![alt text](https://i.imgur.com/RM028G5.jpg "Krastorio 2 Modules")
+&emsp;&emsp;![alt text](https://i.imgur.com/RM028G5.jpg "Krastorio 2 Modules")
 *  This mod expands the 3 types of base game modules by adding 3 new tiers of modules. 
 *  They are powerful, but also very expensive to craft. 
 *  They are designed as an endgame resource sink that allows you to push your factory even further and save you a few UPS.
