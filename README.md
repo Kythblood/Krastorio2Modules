@@ -25,7 +25,7 @@ However, for those (like me) who still wish for more tiers of modules to extend 
 *  This mod adds a number of options that allow you to customize the bonuses of the new modules and enable/disable certain features individually.  
 ![alt text](https://i.imgur.com/uyj8jvR.jpg "Krastorio 2 Modules Settings")
 
-*  Some options that allow you to change to alternative icon graphics. E.g. energy processing circuit:
+*  Some options that allow you choose between alternative icon graphics. E.g. energy processing circuit:
 ![alt text](https://i.imgur.com/lQXaVWG.png "Alternative icon graphics for energy-processing-circuit")
 
 *  Hover your cursor over them to receive a more in-depth description.
