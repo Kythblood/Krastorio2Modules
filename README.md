@@ -34,9 +34,9 @@ However, for those (like me) who still wish for more tiers of modules to extend 
 ![alt text](https://i.imgur.com/lnhDBEr.jpg "Krastorio 2 Speed Cap Bug")
 *  While this setting is not enabled by default because it is not necessary for normal gameplay, it is advised to enable it once you reach the endgame and start using fully beaconed setups with the new modules of this mod.
 # Credits
-This mod is an **add-on** for [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) by [Krastor]( https://mods.factorio.com/user/Krastor) and [Linver]( https://mods.factorio.com/user/Linver).\
+This mod is an **add-on** for [Krastorio 2](https://mods.factorio.com/mod/Krastorio2) by [Krastor]( https://mods.factorio.com/user/Krastor) and [Linver]( https://mods.factorio.com/user/Linver).<br />
 My mod is **not** an official expansion to Krastorio 2. It requires Krastorio 2 to be installed, but it is **not** related to the Krastorio Team in any other way.
-A big thank you to the Krastorio Team for creating this amazing mod.\\
-The code was created by me and graphics, other than the ones stated below, are based on the factorio base game icons and edited by me.\\
-The icon graphics for the energy processing circuits were created by [Kirazy](https://mods.factorio.com/user/Kirazy). I only modified the hue. They were taken with permission from the author from the mod [Artisanal Reskins: Bob's Mods](https://mods.factorio.com/mod/reskins-bobs).\\
+A big thank you to the Krastorio Team for creating this amazing mod.<br /><br />
+The code was created by me and graphics, other than the ones stated below, are based on the factorio base game icons and edited by me.<br /><br />
+The icon graphics for the energy processing circuits were created by [Kirazy](https://mods.factorio.com/user/Kirazy). I only modified the hue. They were taken with permission from the author from the mod [Artisanal Reskins: Bob's Mods](https://mods.factorio.com/mod/reskins-bobs).<br /><br />
 If you notice any big mistakes, have any suggestions or feedback regarding the balancing let me know.
