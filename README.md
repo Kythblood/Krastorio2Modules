@@ -25,6 +25,9 @@ However, for those (like me) who still wish for more tiers of modules to extend 
 *  This mod adds a number of options that allow you to customize the bonuses of the new modules and enable/disable certain features individually.  
 ![alt text](https://i.imgur.com/uyj8jvR.jpg "Krastorio 2 Modules Settings")
 
+*  Some options that allow you to change to alternative icon graphics. E.g. energy processing circuit:
+![alt text](https://i.imgur.com/lQXaVWG.png "Alternative icon graphics for energy-processing-circuit")
+
 *  Hover your cursor over them to receive a more in-depth description.
 *  One option that should be mentioned specifically is a fix to solve the issue of some recipes reaching the cap of 1 craft per tick. 
 *  With the new modules fully beaconed Advanced assembling machines or Advanced chemical plants can reach craft speeds of 141 or 266 respectively (a few spaces around the machine are occupied with inputs/outputs), causing some recipes to go over 60 operations per second and making the game engine not iterate all recipe cycles correctly.  
