@@ -1,0 +1,36 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 08.09.2020
+  Changes:
+    - Changed the mod thumbnail
+    - Changed the icon graphic for the energy processing circuits
+       - The new one is made by Kirazy. Check out his mods. They look great!
+    - Added more available colors to choose from for the icon
+    - Changed the default color of the energy processing circuit icon to purple
+    - Added CREDITS.txt and GENERAL-LICENSE.txt
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 27.08.2020
+  Changes:
+    - Changed the mod description to clarify that this is an unofficial expansion for Krastorio 2
+    - Removed some debug code
+  Bugfixes:
+    - Fixed a wrong date and some errors in the changelog
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 1.08.2020
+  Changes:
+    - Changed the default icon for Energy processing circuits to the cyan version because black can be difficult to see on black background
+    - Changed factorio version to 1.0
+  Features:
+    - Added an option to split modules into 3 separate subgroups to increase the cleanliness of the gui
+    - Added a number of customization options for the bonuses of the modules
+    - Added options that allow to disable/enable certain features 
+    - Added an option to change the icon graphics of Energy processing circuits and Productivity modules to alternative ones.
+    - Added customization options for the recipes
+    - Added option to fix the issue of some recipes reaching the cap of 60 operations per second.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0 (not public)
+Date: 30.07.2020
+  Features:
+    - First version (for me and a few friends)

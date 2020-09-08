@@ -1,0 +1,17 @@
+Special thanks to Krastor and Linver for developing Krastorio 2.
+
+This mod is an add-on for Krastorio 2 by Krastor and Linver.
+My mod is not an official expansion to Krastorio 2. It requires Krastorio 2 to 
+be installed, but it is not related to the Krastorio Team in any other way.
+
+The graphics, other than the ones stated below, are edited versions of graphics 
+from the factorio base game.
+
+
+
+The icon graphics for the energy processing circuits were created by Kirazy. I 
+only modified the hue. They include all pngs inside the folder with the path:
+__Krastorio2_Modules__/graphics/icons/energy-processing-circuit
+
+They were taken with permission from the mod Artisanal Reskins: Bob's Mods and
+are licensed under the MIT license.
