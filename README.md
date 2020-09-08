@@ -11,7 +11,7 @@ However, for those (like me) who still wish for more tiers of modules to extend 
 *  The difference between other mods that add more modules and this mod is that it was designed specifically for Krastorio 2. It makes use of the new resources and items and keeps close to the vanilla style.
 &nbsp;
 *  To unlock the new tiers of modules, research the technology “Energy processing circuit”, which unlocks a new type of circuit that is required to craft them, and the technology “Advanced modules”.
-![alt text](https://i.imgur.com/GvOo56N.jpg "Krastorio 2 Modules Technology Prerequisites")
+![alt text](https://i.imgur.com/A2lJGsV.jpg "Krastorio 2 Modules Technology Prerequisites")
 *  This will unlock the research for tier 4, 5 and 6 of modules.    
 **Speed modules:**
 ![alt text](https://i.imgur.com/I2d8YgE.jpg "Krastorio 2 Speed modules 4, 5, 6")
